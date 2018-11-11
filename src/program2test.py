@@ -27,8 +27,3 @@ class Program2Test(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
     p2t= Program2Test()
-    p2t.test_case_1();
-    p2t.test_case_2();
-    p2t.test_case_3();
-    p2t.test_case_4();
-    p2t.test_case_5();

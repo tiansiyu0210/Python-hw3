@@ -72,8 +72,3 @@ class Program1Test(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
     p1t= Program1Test()
-    p1t.test_case_1()
-    p1t.test_case_2()
-    p1t.test_case_3()
-    p1t.test_case_4()
-    p1t.test_case_5()
